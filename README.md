@@ -1,6 +1,5 @@
 # testlesson1
 learning in EPAM
 
--git pull
-
+I am learning how to use this shit and where to run commands
 
